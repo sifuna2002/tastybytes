@@ -388,10 +388,10 @@
         }
         & .site-branding{
             & .brand-logo{
-                padding: 20px 35px;
+                padding: 5px;
                 background-color: $primary;
                 @media #{$xm}{
-                    padding: 10px 15px;
+                    padding: 5px;
                 }
             }
         }
@@ -406,7 +406,7 @@
         & .site-branding{
             & .brand-logo{
                 background-color: $primary;
-                padding: 20px 35px;
+                padding: 5px;
                 @media #{$xs}{
                     padding: 20px 25px;
                 }
