@@ -83,8 +83,8 @@ const Index2 = () => {
                   <div className="text">
                     <h3 className="title">Fastfoods</h3>
                     <p>
-                      Sit amet consectetur adipisci epsum nisi commodoy
-                      elementum non
+                      
+Fast foods served promptly with flavors that delight
                     </p>
                     <Link legacyBehavior href="/about">
                       <a className="btn-link">
@@ -105,8 +105,7 @@ const Index2 = () => {
                   <div className="text">
                     <h3 className="title">Experience Chefs</h3>
                     <p>
-                      Sit amet consectetur adipisci epsum nisi commodoy
-                      elementum non
+                    Experience chefs crafting culinary wonders
                     </p>
                     <Link legacyBehavior href="/about">
                       <a className="btn-link">
@@ -127,8 +126,7 @@ const Index2 = () => {
                   <div className="text">
                     <h3 className="title">Online Delivery</h3>
                     <p>
-                      Sit amet consectetur adipisci epsum nisi commodoy
-                      elementum non
+                    Convenient online delivery for your cravings
                     </p>
                     <Link legacyBehavior href="/about">
                       <a className="btn-link">
@@ -170,10 +168,8 @@ const Index2 = () => {
                   <h2>The Cleanest, Most Delicious Vegan Cookie Dough Ever.</h2>
                 </div>
                 <p className="wow fadeInDown">
-                  Sed ut perspiciatis unde omnis natus sit voluptatem
-                  accusantium doloremque laudantium totam aperiam eaque
-                  queabillo inventore veritatis et quasi architecto beatae vitae
-                  sunt explicabo.
+                  
+Savor the taste of guilt-free indulgence with our exceptionally clean and irresistibly delicious vegan cookie dough. Crafted with the finest plant-based ingredients, each bite is a delightful experience, rich in flavor and free from any compromise on taste. Dive into the goodness of our vegan cookie dough, where clean eating meets sheer delight.
                 </p>
                 <div className="row">
                   <div className="col-md-6">
@@ -579,9 +575,7 @@ const Index2 = () => {
                   <h2>Reservations For Enjoying Your Events &amp; Party</h2>
                 </div>
                 <p>
-                  Sed ut perspiciatis unde omnis natus voluptatem accusantium
-                  doloremque laudantium totam aperiam eaque queab inventore
-                  veritatis et quasi architecto beatae vitae sunt explicabo.
+                Indulge in an unforgettable experience by securing your special event or party reservations with us. Our dedicated team ensures seamless arrangements for your gatherings, whether it's a celebration, corporate event, or an intimate affair.
                 </p>
                 <a href="#" className="main-btn btn-red">
                   reservations

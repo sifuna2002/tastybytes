@@ -32,8 +32,7 @@ const Index = () => {
                   Crispy Chicken Burgers
                 </h1>
                 <p className="wow fadeInDown" data-wow-delay=".7s">
-                  Sit amet consectetur adipiscing Malesuada morbigrave ullamore
-                  alesuada nec pulvinar nisle
+                Indulge in our signature Crispy Chicken Burgers, a flavorful delight that combines crunch and succulence in every bite
                 </p>
                 <div className="hero-button wow fadeInUp" data-wow-delay=".9s">
                   <span>
@@ -228,10 +227,7 @@ const Index = () => {
                   </h2>
                 </div>
                 <p>
-                  Sit amet consectetur adipiscing elitsue risus mauris quam
-                  neque adipiscing phasellus aenean ante orcirat scelerisque
-                  enim ut nulla vestibulum velvitae ut at elementum mauris,
-                  etiam ornare diame
+                Experience the best in delicious cuisine and culinary expertise with our delectable range, masterfully crafted by our renowned chefs, inspired by the flavors of Italy
                 </p>
                 <Link legacyBehavior href="/menu-seafood">
                   <a className="main-btn btn-red">
@@ -471,9 +467,7 @@ const Index = () => {
                   </li>
                 </ul>
                 <p>
-                  Sit amet consectetur adipiscing elitsue risus mauris quam
-                  adipiscing phasellus aene ante orcirat scelerisque enim ut
-                  nulla
+                Explore our premier food menu crafted by our exclusive team of master chefs, dedicated to bringing you exceptional culinary experiences
                 </p>
                 <Link legacyBehavior href="/chefs">
                   <a className="main-btn filled-btn">
@@ -622,9 +616,7 @@ const Index = () => {
                   <h2>How Can We Made Foods For Customers</h2>
                 </div>
                 <p>
-                  Sit amet consectetur adipiscing elitsue risus mauris quam
-                  adipiscing phasellus aene ante orcirat scelerisque enim ut
-                  nulla
+                We craft our foods with your satisfaction in mind, focusing on quality ingredients, innovative techniques, and a deep understanding of our customers' preferences to create delightful culinary experiences
                 </p>
                 <ul className="check-style-one mb-30">
                   <li>Best Way to Serve Our Foods</li>
@@ -713,8 +705,7 @@ const Index = () => {
                   <h2>Make A Reservations</h2>
                 </div>
                 <p>
-                  Sit amet consectetur adipiscing elitsue risus mauris
-                  adipiscing phasellus aene ante orcirat
+                Secure your spot at our table today by making a reservation! Enjoy an unforgettable dining experience with us
                 </p>
                 {/*=== Reservation Form ===*/}
                 <div className="reservation-style-one">
@@ -780,11 +771,7 @@ const Index = () => {
                     <div className="single-testimonial-one">
                       <div className="testimonial-inner-content">
                         <p>
-                          Sit amet consectetur adipiscing elit A sapien
-                          pellentesque nisl dignissim ultrices enim amet
-                          elementum. Eu ut velit elit posuere fusce ullamcorper
-                          maecenas fermentum nam elit dolor ornare nec sociis
-                          aliquet facilisis.
+                        Exquisite food, impeccable service, and a diverse menu that caters to various tastes! This restaurant offers an exceptional culinary journey that's worth savoring. The attention to detail in every dish and the ambiance make it an unparalleled dining destination.
                         </p>
                         <div className="author-quote-box d-flex justify-content-between">
                           <div className="author-title-thumb d-flex">
@@ -809,11 +796,7 @@ const Index = () => {
                     <div className="single-testimonial-one">
                       <div className="testimonial-inner-content">
                         <p>
-                          Sit amet consectetur adipiscing elit A sapien
-                          pellentesque nisl dignissim ultrices enim amet
-                          elementum. Eu ut velit elit posuere fusce ullamcorper
-                          maecenas fermentum nam elit dolor ornare nec sociis
-                          aliquet facilisis.
+                        My visit to this restaurant was an extraordinary experience! From the warm ambiance to the tantalizing flavors, every bite was a delight. The staff was incredibly accommodating, ensuring a seamless and enjoyable evening. Highly recommended for anyone seeking an exceptional dining experience
                         </p>
                         <div className="author-quote-box d-flex justify-content-between">
                           <div className="author-title-thumb d-flex">
@@ -838,11 +821,7 @@ const Index = () => {
                     <div className="single-testimonial-one">
                       <div className="testimonial-inner-content">
                         <p>
-                          Sit amet consectetur adipiscing elit A sapien
-                          pellentesque nisl dignissim ultrices enim amet
-                          elementum. Eu ut velit elit posuere fusce ullamcorper
-                          maecenas fermentum nam elit dolor ornare nec sociis
-                          aliquet facilisis.
+                        As an avid food enthusiast, this restaurant exceeded all my expectations. The flavors were exquisite, and the presentation was top-notch. The staff's dedication to providing exceptional service truly sets this place apart
                         </p>
                         <div className="author-quote-box d-flex justify-content-between">
                           <div className="author-title-thumb d-flex">
