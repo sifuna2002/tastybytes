@@ -20,10 +20,10 @@ git https://github.com/sifuna2002/tastybytes.git
 
 ### Installing Dependencies
 Navigate to the project directory in the terminal and run the following command to install the required dependencies:
-    
-    ```bash
-    npm install
-    ```
+
+```bash
+npm install
+```    
 
 ### Running the Project
 
