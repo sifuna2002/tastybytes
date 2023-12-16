@@ -2,6 +2,10 @@
 
 Welcome to the TastyBytes repository! This project is built using Next.js.
 
+## Live Preview
+
+You can view the live preview of the project [here](https://tastybytes.vercel.app/).
+
 ## Getting Started
 
 Follow the instructions below to get a copy of this project on your local machine for development and testing purposes.
