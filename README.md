@@ -32,6 +32,15 @@ To run the project on your local machine, use the following command in your term
 ```bash
 npm run dev
 ```
+This command will start the Next.js development server. Open your web browser and visit http://localhost:3000 to view the application.
+
+## Deployment
+
+To deploy the project, use the following command in your terminal:
+
+```bash
+npm run build
+```
 
 ## Built With
 
