@@ -95,7 +95,7 @@ const DeskTopMenus = () => {
             </li>
           </ul>
         </li>
-        <li className="menu-item has-children">
+        {/* <li className="menu-item has-children">
           <a href="#">
             Pages
             <span className="dd-trigger">
@@ -139,7 +139,7 @@ const DeskTopMenus = () => {
               </Link>
             </li>
           </ul>
-        </li>
+        </li> */}
       </ul>
     </nav>
   );
