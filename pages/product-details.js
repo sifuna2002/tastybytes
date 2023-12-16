@@ -247,12 +247,7 @@ const ProductsDetails = () => {
                           </li>
                         </ul>
                         <p>
-                          Quis ipsum sed et proin sit aliquet in quis. Aliqu
-                          ullamcorper sollicitudin quis ut sedorbi dui porttitor
-                          duis porttitore fringilla. Estauris purus vita
-                          volutpat. Estorem felis mau libero nisi. Rhoncus
-                          phasellus facilisi praesent enim quis venenatis neque
-                          metus sit.
+                        Indulge in the taste of Italy with our savory and quick Italian FastFoods. From classic pizzas to delectable pasta dishes, our menu offers a delightful array of authentic Italian flavors served fresh and fast
                         </p>
                         <div className="product-cart mb-20">
                           <ul>
@@ -364,49 +359,17 @@ const ProductsDetails = () => {
                     <Tab.Pane className="tab-pane fade" eventKey="descrptions">
                       <div className="content-box-gap">
                         <p>
-                          Sorem ipsum dolor sit amet, consectetur adipiscing
-                          elit. Tortor nulla id sit neque scelerisque pulvinar.
-                          Mus amet interdum turpis consequat adipiscing.
-                          Elementum feugiat sed duis consectetur varius et cras
-                          mattis. Lobortis auctor sit in eu nisl fusce augue
-                          venenatis, dui. Phasellus eget sagittis mauris, nibh
-                          augue cursus pellentesque amet elementum. Tristique
-                          amet sollicitudin sit nulla aliquam, imperdiet sed ut
-                          diam. Suspendisse ipsum rhoncus nulla lectus. Id neque
-                          in urna neque non amet. Tortor sed aliquam in faucibus
-                          enim, posuere. Sed et accumsan, neque posuere tempus
-                          in cras. Ornare lectus pretium, est eget purus, enim
-                          quam purus netus. Turpis nunc
+                        Satisfy your cravings with our handcrafted pizzas baked to perfection or relish our signature pasta dishes prepared with traditional Italian recipes. Whether you're craving a quick bite or a satisfying meal, our Italian FastFoods promise a burst of flavor that transports you straight to Italy's culinary heart.
                         </p>
                         <p>
-                          Dictum ultrices et suspendisse amet mattis in
-                          pellentesque. Vulputate arcu, consectetur odio donec
-                          nec duis ultrices facilisi. Mauris cursus elit diam,
-                          urna suspendisse et, amet. Vitae ligula ultrices nulla
-                          justo, enim lorem duis. Volutpat sit et neque,
-                          aliquam, diam at at neque. Lacus augue
+                        Our menu boasts a fusion of traditional Italian flavors and contemporary culinary craftsmanship
                         </p>
                       </div>
                     </Tab.Pane>
                     <Tab.Pane className="tab-pane fade" eventKey="information">
                       <div className="content-box-gap">
                         <p>
-                          Sed ut perspiciatis unde omnis iste natus error sit
-                          voluptatem accusantium doloremque laudantium, totam
-                          rem aperiam, eaque ipsa quae ab illo inventore verit
-                          atis et quasi architecto beatae vitae dicta sunt
-                          explicabo. Nemo enim ipsam voluptatem quia voluptas
-                          sit aspernatur aut odit aut fugit, sed quia
-                          consequuntur magni dolores eos qui ratione voluptatem
-                          sequi nesciunt. Neque porro quisquam est, qui dolorem
-                          ipsum quia dolor sit amet, consectetur, adipisci velit
-                          sed quia non numquam eius modi tempora incidunt ut
-                          labore et dolore magnam aliquam quaerat voluptatem. Ut
-                          enim ad minima veniam, quis nostrum exercitationem
-                          ullam corporis suscipit laboriosam, nisi ut aliquid ex
-                          ea commodi consequatur? Quis autem vel eum iure
-                          reprehenderit qui in ea voluptate velit esse quam
-                          nihil molestiae consequatur, vel illum qui dolorem eum
+                        Delight in our assortment of handcrafted pizzas, featuring a medley of premium ingredients and perfected crusts. Explore our pasta offerings, where each dish is crafted with care using authentic recipes and premium-quality ingredients. Indulge in the taste of Italy, prepared fresh and served fast, for an unforgettable dining experience that captures the true essence of Italian cuisine.
                         </p>
                       </div>
                     </Tab.Pane>
