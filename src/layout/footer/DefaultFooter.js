@@ -19,7 +19,7 @@ const DefaultFooter = () => {
                     </a>
                   </Link>
                   <p>
-                    Sit amet consectetur adipiscing elitsue risus mauris adipis
+                  Enhancing your dining experience, one byte at a time
                   </p>
                   <form onSubmit={(e) => e.preventDefault()}>
                     <div className="form_group">
@@ -128,7 +128,7 @@ const DefaultFooter = () => {
           <div className="row">
             <div className="col-lg-6">
               <div className="copyright-text">
-                <p>© 2023 Qichen, All Rights Reserved</p>
+                <p>© 2023 TastyBytes, All Rights Reserved</p>
               </div>
             </div>
             <div className="col-lg-6">

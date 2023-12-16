@@ -15,17 +15,17 @@ const DeskTopMenus = () => {
           <ul className="sub-menu">
             <li>
               <Link legacyBehavior href="/">
-                Home Restaurant
+                Restaurant
               </Link>
             </li>
             <li>
               <Link legacyBehavior href="index-2">
-                Home Fastfood
+                Fastfood
               </Link>
             </li>
             <li>
               <Link legacyBehavior href="index-3">
-                Home Seafood
+                Seafood
               </Link>
             </li>
           </ul>
@@ -40,12 +40,12 @@ const DeskTopMenus = () => {
           <ul className="sub-menu">
             <li>
               <Link legacyBehavior href="menu-fastfood">
-                Menu Fastfood
+                Fastfood
               </Link>
             </li>
             <li>
               <Link legacyBehavior href="menu-seafood">
-                Menu Seafood
+                Seafood
               </Link>
             </li>
           </ul>
@@ -85,12 +85,12 @@ const DeskTopMenus = () => {
           <ul className="sub-menu">
             <li>
               <Link legacyBehavior href="blog-standard">
-                Blog Standard
+                Standard
               </Link>
             </li>
             <li>
               <Link legacyBehavior href="blog-details">
-                Blog Details
+                Details
               </Link>
             </li>
           </ul>
