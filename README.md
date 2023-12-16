@@ -16,3 +16,29 @@ To clone this repository to your local machine, use the following command in you
 
 ```bash
 git https://github.com/sifuna2002/tastybytes.git
+```
+
+### Installing Dependencies
+Navigate to the project directory in the terminal and run the following command to install the required dependencies:
+    
+    ```bash
+    npm install
+    ```
+
+### Running the Project
+
+To run the project on your local machine, use the following command in your terminal:
+
+```bash
+npm run dev
+```
+
+## Built With
+
+* [Next.js](https://nextjs.org/) - The React framework used
+* [Tailwind CSS](https://tailwindcss.com/) - The CSS framework used
+* [Firebase](https://firebase.google.com/) - The database used
+
+## Acknowledgments
+
+
