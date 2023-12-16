@@ -19,7 +19,7 @@ To run this project, you need to have Node.js installed on your machine. If you 
 To clone this repository to your local machine, use the following command in your terminal:
 
 ```bash
-git https://github.com/sifuna2002/tastybytes.git
+git clone https://github.com/sifuna2002/tastybytes.git
 ```
 
 ### Installing Dependencies
