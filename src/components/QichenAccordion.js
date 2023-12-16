@@ -44,9 +44,7 @@ const QichenAccordion = ({ defaultActive }) => {
           <Accordion.Collapse eventKey={accordion.id}>
             <div className="accordion-body">
               <p>
-                Sed ut perspiciatis unde omnis natus sit voluptatem accusantium
-                doloremque laudantium totam aperiam eaque queabillo inventore
-                veritatis et quasi architecto beatae vitae sunt explicabo.
+              Welcome to TastyBytes, your go-to destination for a delightful culinary journey! We pride ourselves on crafting delectable dishes and offering a seamless dining experience. Our commitment is to serve you with the finest flavors, whether you're relishing a cozy meal or planning a grand celebration. Explore our diverse menu, indulge in our loyalty program, and experience the ease of online ordering and table reservations. At TastyBytes, every byte is a savory delight!
               </p>
             </div>
           </Accordion.Collapse>

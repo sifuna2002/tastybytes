@@ -53,10 +53,7 @@ const About = () => {
                   <h2>The Cleanest, Most Delicious Vegan Cookie Dough Ever.</h2>
                 </div>
                 <p className="wow fadeInDown">
-                  Sed ut perspiciatis unde omnis natus sit voluptatem
-                  accusantium doloremque laudantium totam aperiam eaque
-                  queabillo inventore veritatis et quasi architecto beatae vitae
-                  sunt explicabo.
+                Welcome to TastyBytes! We're passionate about crafting delicious meals and creating memorable dining experiences. Discover our diverse menu and join us in savoring the joy of exceptional food.
                 </p>
                 <div className="row">
                   <div className="col-md-6">
@@ -144,9 +141,7 @@ const About = () => {
                   </h2>
                 </div>
                 <p>
-                  Sed ut perspiciatis unde omnis iste natus sit voluptatem
-                  accusantium doloremque laudantium totam rem aperiam eaque ipsa
-                  quae ab illo inventore veritatis
+                At TastyBytes, we stand out for our commitment to quality, taste, and service. With our dedication to using fresh ingredients, delivering exceptional flavors, and ensuring a delightful experience, we strive to be your top choice for satisfying cravings and creating lasting culinary memories.
                 </p>
                 <ul className="check-style-one mb-35">
                   <li>Best Way to Serve Our Foods</li>
@@ -170,7 +165,7 @@ const About = () => {
                       </div>
                       <div className="text">
                         <h3 className="title">Fastfoods</h3>
-                        <p>Sit amet consecte adisce epsum nisi commos</p>
+                        <p>Quick bites, big flavors</p>
                         <Link legacyBehavior href="/about">
                           <a className="btn-link">Read more</a>
                         </Link>
@@ -184,7 +179,7 @@ const About = () => {
                       </div>
                       <div className="text">
                         <h3 className="title">Experience Chefs</h3>
-                        <p>Sit amet consecte adisce epsum nisi commos</p>
+                        <p>Expertly crafted dishes by experienced chefs</p>
                         <Link legacyBehavior href="/about">
                           <a className="btn-link">Read more</a>
                         </Link>
@@ -198,7 +193,7 @@ const About = () => {
                       </div>
                       <div className="text">
                         <h3 className="title">Online Delivery</h3>
-                        <p>Sit amet consecte adisce epsum nisi commos</p>
+                        <p>Convenient online delivery for your ease</p>
                         <Link legacyBehavior href="/about">
                           <a className="btn-link">Read more</a>
                         </Link>
@@ -212,7 +207,7 @@ const About = () => {
                       </div>
                       <div className="text">
                         <h3 className="title">Fine Dining</h3>
-                        <p>Sit amet consecte adisce epsum nisi commos</p>
+                        <p>Indulge in a sophisticated fine dining experience</p>
                         <Link legacyBehavior href="/about">
                           <a className="btn-link">Read more</a>
                         </Link>
@@ -341,9 +336,7 @@ const About = () => {
                   <h2>How Can We Made Foods For Customers</h2>
                 </div>
                 <p>
-                  Sit amet consectetur adipiscing elitsue risus mauris quam
-                  adipiscing phasellus aene ante orcirat scelerisque enim ut
-                  nulla
+                We cater to your preferences, creating custom-made dishes just for you
                 </p>
                 <ul className="check-style-one mb-30">
                   <li>Best Way to Serve Our Foods</li>
