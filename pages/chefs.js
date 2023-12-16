@@ -311,9 +311,7 @@ const Chefs = () => {
                   <h2>We’re Very Experience and Professionals</h2>
                 </div>
                 <p>
-                  Sed ut perspiciatis unde natus voluptatem accusantium
-                  doloremque laudantium totam aperiam queab inventore veritatis
-                  et quasi architecto beatae vitae sunt
+                We boast a wealth of experience and professionalism to cater to your needs with expertise and precision
                 </p>
                 <div className="single-progress-bar mb-40">
                   <div className="progress-title">
