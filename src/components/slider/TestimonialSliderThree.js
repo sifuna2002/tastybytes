@@ -69,9 +69,7 @@ export class TestimonialSliderThree extends Component {
               </div>
               <h3>“Yamee Foods”</h3>
               <p>
-                Sed ut perspiciatis unde omiste natus error sit volupt
-                accusantium doloremque laudantium totam rem aperiam, eaque ipsa
-                quae ab inventore veritatis et quase{" "}
+              Absolutely delicious! The variety and flavors in their dishes are unmatched. I'm always coming back for more{" "}
               </p>
               <div className="author-title-thumb">
                 <div className="author-thumb">
@@ -115,9 +113,7 @@ export class TestimonialSliderThree extends Component {
               </div>
               <h3>“Mind blowing”</h3>
               <p>
-                Sed ut perspiciatis unde omiste natus error sit volupt
-                accusantium doloremque laudantium totam rem aperiam, eaque ipsa
-                quae ab inventore veritatis et quase{" "}
+              Superb service! The staff was friendly, and the food arrived promptly, piping hot, and bursting with flavors{" "}
               </p>
               <div className="author-title-thumb">
                 <div className="author-thumb">
@@ -161,9 +157,7 @@ export class TestimonialSliderThree extends Component {
               </div>
               <h3>“Delicious”</h3>
               <p>
-                Sed ut perspiciatis unde omiste natus error sit volupt
-                accusantium doloremque laudantium totam rem aperiam, eaque ipsa
-                quae ab inventore veritatis et quase{" "}
+              Exquisite taste! Each meal feels like a culinary adventure. Their attention to quality and detail is truly commendable{" "}
               </p>
               <div className="author-title-thumb">
                 <div className="author-thumb">
